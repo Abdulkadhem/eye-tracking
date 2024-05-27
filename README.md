@@ -12,7 +12,7 @@ git clone https://github.com/Abdulkadhem/eye-tracking.git
 Navigate to the cloned directory:
 bash
 Copy code
-cd eye-tracking
+{cd eye-tracking}
 Install the required dependencies using pip:
 Copy code
 pip install -r requirements.txt
